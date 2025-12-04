@@ -24,18 +24,13 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=911axyush&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=911axyush&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
 ### 🔗 Connect with Me
 <p align="left">
   <a href="https://instagram.com/911axyush" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="www.linkedin.com/in/aayush-jadhav-877649349" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
