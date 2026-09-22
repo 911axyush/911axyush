@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Aayush Jadhav</h1>
-<h3 align="center">1st Year B.Tech Student • Game Developer • Roblox & Unity Creator</h3>
+<h3 align="center">2nd Year B.Tech Student • Game Developer • Roblox & Unity Creator</h3>
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
